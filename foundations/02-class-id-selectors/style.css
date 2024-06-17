@@ -1,0 +1,19 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verana, DejaVu Sans, sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#element3 {
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: green;
+    font-size: 24px;
+    font-style: bold;
+}
